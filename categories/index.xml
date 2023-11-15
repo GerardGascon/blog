@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Gerard Gascón&#39;s Blog</title>
-    <link>/categories/</link>
+    <link>https://blog.gerardgascon.com/categories/</link>
     <description>Recent content in Categories on Gerard Gascón&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.gerardgascon.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>/categories/tutorial/</link>
+      <link>https://blog.gerardgascon.com/categories/tutorial/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tutorial/</guid>
+      <guid>https://blog.gerardgascon.com/categories/tutorial/</guid>
       <description></description>
     </item>
     

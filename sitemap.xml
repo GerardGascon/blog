@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tutorials/adding-texture-to-lights-with-shader-graph/</loc>
+    <loc>https://blog.gerardgascon.com/tutorials/adding-texture-to-lights-with-shader-graph/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://blog.gerardgascon.com/categories/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://blog.gerardgascon.com/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/shaders/</loc>
+    <loc>https://blog.gerardgascon.com/tags/shaders/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://blog.gerardgascon.com/tags/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/tutorial/</loc>
+    <loc>https://blog.gerardgascon.com/categories/tutorial/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tutorials/</loc>
+    <loc>https://blog.gerardgascon.com/tutorials/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/unity/</loc>
+    <loc>https://blog.gerardgascon.com/tags/unity/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tutorials/using-raw-images-to-create-infinite-backgrounds/</loc>
+    <loc>https://blog.gerardgascon.com/tutorials/using-raw-images-to-create-infinite-backgrounds/</loc>
     <lastmod>2023-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tutorials/cinemachine-scaler-extension/</loc>
+    <loc>https://blog.gerardgascon.com/tutorials/cinemachine-scaler-extension/</loc>
     <lastmod>2023-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tutorials/draw-a-2d-silhouette-in-unity/</loc>
+    <loc>https://blog.gerardgascon.com/tutorials/draw-a-2d-silhouette-in-unity/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://blog.gerardgascon.com/archives/</loc>
   </url>
 </urlset>

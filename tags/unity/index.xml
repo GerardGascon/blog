@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Unity on Gerard Gascón&#39;s Blog</title>
-    <link>/tags/unity/</link>
+    <link>https://blog.gerardgascon.com/tags/unity/</link>
     <description>Recent content in Unity on Gerard Gascón&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.gerardgascon.com/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adding texture to lights with Shader Graph</title>
-      <link>/tutorials/adding-texture-to-lights-with-shader-graph/</link>
+      <link>https://blog.gerardgascon.com/tutorials/adding-texture-to-lights-with-shader-graph/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/adding-texture-to-lights-with-shader-graph/</guid>
+      <guid>https://blog.gerardgascon.com/tutorials/adding-texture-to-lights-with-shader-graph/</guid>
       <description>Today, I’ve been working to add a subtle texture to any 2D Light present in the scene. This could be accomplished in two completely different ways, one would be using 2D Sprite Lights, using one sprite for the light itself and another sprite right on top with a noise texture to create this effect. Although, using this kind of light can easily limit us in many ways and one of them being importing lots of different sprites, so I found a small trick to avoid doing that.</description>
     </item>
     
     <item>
       <title>Using Raw Images to create infinite backgrounds</title>
-      <link>/tutorials/using-raw-images-to-create-infinite-backgrounds/</link>
+      <link>https://blog.gerardgascon.com/tutorials/using-raw-images-to-create-infinite-backgrounds/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/using-raw-images-to-create-infinite-backgrounds/</guid>
+      <guid>https://blog.gerardgascon.com/tutorials/using-raw-images-to-create-infinite-backgrounds/</guid>
       <description>Creating a game with a large background can cause some large messes like this one:
 A huge background that was made out of dozens of images. But after some workaround, I ended up discovering that you can replace that with a Raw Image and a simple script.
 Setup To start, we need to create a specific canvas for the Raw Image and set its Render Mode to Camera. Then we create a Raw Image child and set it to stretch.</description>
@@ -28,20 +28,20 @@ Setup To start, we need to create a specific canvas for the Raw Image and set it
     
     <item>
       <title>Cinemachine Scaler Extension</title>
-      <link>/tutorials/cinemachine-scaler-extension/</link>
+      <link>https://blog.gerardgascon.com/tutorials/cinemachine-scaler-extension/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/cinemachine-scaler-extension/</guid>
+      <guid>https://blog.gerardgascon.com/tutorials/cinemachine-scaler-extension/</guid>
       <description>Today, I’ve developed another basic tool that could be useful to someone else. It is called the Cinemachine Scaler, an extension that changes the orthographic size to avoid hiding important sprites with the UI.
 While testing some dialogues with Cinemachine, we’ve found that the Target Group made some characters appear under the dialogue’s UI. While this could be solved by increasing the radius of the character that is being occluded, it isn’t the most elegant solution.</description>
     </item>
     
     <item>
       <title>Draw a 2D silhouette in Unity</title>
-      <link>/tutorials/draw-a-2d-silhouette-in-unity/</link>
+      <link>https://blog.gerardgascon.com/tutorials/draw-a-2d-silhouette-in-unity/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/draw-a-2d-silhouette-in-unity/</guid>
+      <guid>https://blog.gerardgascon.com/tutorials/draw-a-2d-silhouette-in-unity/</guid>
       <description>I am developing a game, and recently it required to have silhouettes for when the player is behind an obstacle. To my surprise, I found no tutorials covering this at all. Even though there exist some, they only cover a small part of what any top-down 2D game would need. So after some trial and error I found a way, with some room for improvement, that solves those cases found in other tutorials.</description>
     </item>
     
