@@ -1,0 +1,55 @@
+baseURL: ""
+theme: PaperMod
+title: Gerard Gascón's Blog
+contentDir: content
+
+params:
+  homeInfoParams:
+    Title: 'Gerard Gascón'
+    Content: "I am Gerard, a young, self-taught game developer focused mainly on programming and this is my personal blog."
+
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/G_of_Geri'
+    - name: website
+      url: 'https://gerardgascon.com'
+    - name: itchio
+      url: 'https://geri8.itch.io/'
+    - name: steam
+      url: 'https://s.team/a/2482980/'
+    - name: bluesky
+      url: 'https://bsky.app/profile/gerardgascon.com'
+    - name: mastodon
+      url: 'https://mastodon.gamedev.place/@geri'
+    - name: telegram
+      url: 'https://t.me/G_of_Geri'
+    - name: email
+      url: 'mailto:ggasconmoline@gmail.com'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/gerardgasconmoline/'
+  cover:
+    linkFullImages: true
+
+  LinkFullImages: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  HideFooter: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
