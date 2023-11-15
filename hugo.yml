@@ -17,6 +17,8 @@ params:
       url: 'https://geri8.itch.io/'
     - name: steam
       url: 'https://s.team/a/2482980/'
+    - name: github
+      url: 'https://github.com/gerardgascon'
     - name: bluesky
       url: 'https://bsky.app/profile/gerardgascon.com'
     - name: mastodon
@@ -31,12 +33,16 @@ params:
     linkFullImages: true
 
   LinkFullImages: true
+
+  comments: true
+
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
+
   HideFooter: true
 
 menu:
