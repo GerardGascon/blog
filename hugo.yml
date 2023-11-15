@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://blog.gerardgascon.com"
 theme: PaperMod
 title: Gerard Gascón's Blog
 contentDir: content
