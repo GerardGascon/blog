@@ -10,25 +10,25 @@ params:
 
   socialIcons:
     - name: twitter
-      url: 'https://twitter.com/G_of_Geri'
+      url: 'https://twitter.gerardgascon.com'
     - name: website
       url: 'https://gerardgascon.com'
     - name: itchio
-      url: 'https://geri8.itch.io/'
+      url: 'https://itch.gerardgascon.com'
     - name: steam
-      url: 'https://s.team/a/2482980/'
+      url: 'https://steam.gerardgascon.com'
     - name: github
-      url: 'https://github.com/gerardgascon'
+      url: 'https://github.gerardgascon.com'
     - name: bluesky
-      url: 'https://bsky.app/profile/gerardgascon.com'
+      url: 'https://bsky.gerardgascon.com'
     - name: mastodon
-      url: 'https://mastodon.gamedev.place/@geri'
+      url: 'https://mastodon.gerardgascon.com'
     - name: telegram
-      url: 'https://t.me/G_of_Geri'
+      url: 'https://telegram.gerardgascon.com'
     - name: email
       url: 'mailto:ggasconmoline@gmail.com'
     - name: linkedin
-      url: 'https://www.linkedin.com/in/gerardgasconmoline/'
+      url: 'https://linkedin.gerardgascon.com'
   cover:
     linkFullImages: true
 
