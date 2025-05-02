@@ -2,10 +2,6 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
-
   - type: Facebook
     icon: "fab fa-facebook-square"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
@@ -32,3 +28,5 @@ platforms:
         link: "https://mastodon.social/"
       - label: mastodon.gamedev.place
         link: "https://mastodon.gamedev.place/"
+      - label: gamedev.lgbt
+        link: "https://gamedev.lgbt/"
