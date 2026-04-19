@@ -32,7 +32,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Gerard Gascón
-  email: hello@gerardgascon.com # change to your email address
+  email: contact@gerardgascon.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://mastodon.gamedev.place/@geri # change to your twitter homepage
